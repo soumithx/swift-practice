@@ -1,0 +1,16 @@
+classes -> Reference Types
+struct -> Value Types 
+
+* if a instance of class A  is assigned to another instance B , 
+  any effected properties of A will be refleced to B properties 
+ this kind of scenario is Refrence Type
+
+--> if we need an instance of an object through the app and to control its identity , Class are the solution
+
+
+
+Value Type: 
+
+Unlike Class Reference Type , properties will not effect any other copied/assigned instance 
+it will be helpful to track peace of code
+
